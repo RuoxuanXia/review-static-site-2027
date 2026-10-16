@@ -1,0 +1,11 @@
+.story-case,
+.case-summary,
+.case-summary > *,
+.routine-track,
+.chapters {
+    min-width: 0;
+}
+
+.story-case {
+    max-width: 100%;
+}
